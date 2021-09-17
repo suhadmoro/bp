@@ -7,7 +7,7 @@
 "Json_popup_Wait" : "Mohon Tunggu....",
 
 
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -20,9 +20,9 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "FAN",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 5,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-3459782106934381/5126456834",
+"ADMOB_INTER" : "ca-app-pub-3459782106934381/8276198501",
+"ADMOB_NATIV" : "ca-app-pub-3459782106934381/8730466409",
 
 "hpk_alien" : "Binomo",
 "HPK_ADMOB1" : "Pinjaman",
@@ -53,10 +53,10 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_BANNER" : "",
+"UNITY_INTERSTITIAL" : "",
 "UNITY_GAME_ID" : "",
-"UNITY_TEST_MODE" : "true",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "",
 "APPLOVIN_INTERSTITIAL_ID" : "",
