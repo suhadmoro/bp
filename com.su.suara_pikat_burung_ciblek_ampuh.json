@@ -15,8 +15,8 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=sudahmorowignyodev",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -30,21 +30,21 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "20",
+"INTER_COUNT" : "5",
 
-"ENABLE_STRAP" : true,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : false,
+"MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-3459782106934381/8970688297",
+"ADMOB_INTER" : "ca-app-pub-3459782106934381/6220880807",
+"ADMOB_NATIV" : "ca-app-pub-3459782106934381/9312920330",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
