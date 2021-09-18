@@ -24,12 +24,12 @@
 
 "INTER_COUNT" : 5,
 
-"enable_strap" : true,
+"enable_strap" : false,
 "enable_strap_SplahScreen" : false,
 
 "ads_on_exit_dialog" : true,
 
-"Mode_offline_mp3" : false,
+"Mode_offline_mp3" : true,
 "Enable_Sticky_Notification" : false,
 
 
