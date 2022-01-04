@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -30,7 +30,7 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "20",
+"INTER_COUNT" : "5",
 
 "ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
@@ -42,16 +42,16 @@
 
 "STARTAPPID" : "",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-3459782106934381/4800500619",
+"ADMOB_INTER" : "ca-app-pub-3459782106934381/2445800016",
+"ADMOB_NATIV" : "ca-app-pub-3459782106934381/5071963355",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
 "HPK_ADMOB2" : "Bank Jenius",
 "HPK_ADMOB3" : "Simpati",
 "HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"HPK_ADMOB5" : "Do5nasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
