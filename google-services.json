@@ -1,0 +1,764 @@
+{
+  "project_info": {
+    "project_number": "586727453667",
+    "project_id": "suhad2",
+    "storage_bucket": "suhad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:c76507bc18787d2ab6a6d6",
+        "android_client_info": {
+          "package_name": "com.lagu_dangdut_mansur_s_fullalbum.lagumansyurslengkap.lgumansyurslawasoffln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:ad8c19cf7156c4feb6a6d6",
+        "android_client_info": {
+          "package_name": "com.lagu_rheka_restu_offline.mp3.lagu.rekharestu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:136fe173c35d6a91b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.adella.koplo_lengkap_offline.om_adella_dangdut_koplo.offline.duetDangdut.adellaKoplo.lengkapromantis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:68917c8daee0bce0b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.amalan.sholawat.pelancar.rezeki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:928cf58fbab7d3efb6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.bila_nanti_nabila_maharani.zidan.Ft.Tri.Suaka.jogja.musik.trisuakaftnabilamaharanioffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:8744f8cad4b63a64b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.dangdut_sunda.full.offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:39a16daf94cea70bb6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.evietamala.laguevietamalalengkap.evie_tamala_mp3_offline_lengkap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:077eeb49ee9def09b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.kumpulan.lagu_rita_sugiarto.lengkap_offline.lagukenangan.ritasugiarto.RitaSugiartoOffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:d9a62e590a5fa08ab6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagu.mp3.kamen.rider.baja.hitam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:d6b88b8876b283c7b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagu.tik.tok.lagi.lagi.nggak.bisa.tidur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:4647210a6c21fe41b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagu.ultramen.terlengkap.dan.terbaik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:bd453d1a3f022083b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagu_arief_full_album.lagu_minang_arief_offline.arieffeatyolandafullalbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:4d50d87b3fea5900b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagu_tri_suaka.lengkap_offline.tri.suaka.musisi.project.jogja.musik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:36e93cad6390fdcfb6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagudjremix.terbaruoffline.lagudjremix.lengkap.dj.remix_tik_tok_full_bass_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:36fa46a70cfb341ab6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.lagupopsunda.lagu_sunda_kenangan_pilihan_terbaik_offline.lagusundaoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:b40c26fd16433b93b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.laguthomasaryafullalbum2022offline.laguthomasaryar.thomasarya.fullalbum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:1dd1526bcfb48bedb6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.mp3.kumpulan.lagu.bali.pilihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:d8d5d74f5e073253b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.mp3.lagu.bugis.pilihan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:841371f0ebe1950ab6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.mp3.sholawat_aikhodijah_offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:373f2929d7322550b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.mp3sholawatkoplo.sholawat_dangdut_koploterbaru_offline.sholawat.modern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:9ab9cd2e5b1d618ab6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.ratihpurwasihmp3.mp3.ratih.purwasih.Lengkp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:02f9e591ea628440b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.reggae.mp3.reggae_dangdut_ska_Offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:f2c9aad4c6d9be21b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.santri_njoso_mp3.lagusantrinjosomp3akustik.akustiksholawat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:6dd8f02a99ba696bb6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.sholawat.dibebaskan.dari.masalah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:d8651fac6ca40a91b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.tangga_lagu_minang.laguminang.minangterhits.laguminangoffline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586727453667:android:5c70cd5912b40ba8b6a6d6",
+        "android_client_info": {
+          "package_name": "com.su.zinidin.zidan.ft.tri.Suaka.mp3.musisi.project.jogja.cover_zinidin_zidan_feat_tri_suaka_nabila_zidan_ft_nabila_suaka_offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwSWA2SoOcEc9TZLqERkJsi0Gbm2EcAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586727453667-j40v9ctk4ekt5osf8950bpj5rlmqgnmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
