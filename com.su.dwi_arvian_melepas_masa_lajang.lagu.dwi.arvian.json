@@ -70,9 +70,9 @@
 "TAPDAQ_APP_ID" : "",
 "TAPDAQ_CLIENT_KEY" : "",
 
-"BUTTON_START" : "START",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
-"BUTTON_RATING" : "RATING NOW",
+"BUTTON_START" : "MULAI",
+"BUTTON_SHARE" : "BAGIKAN",
+"BUTTON_RATING" : "BINTANG",
 
 "EXIT_POPUP_DIALOG" : "
 Agar Kami lebih semangat mengembangkan Aplikasi ini
