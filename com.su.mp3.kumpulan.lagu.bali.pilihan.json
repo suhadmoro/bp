@@ -42,16 +42,22 @@
 
 "STARTAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-3459782106934381/2984021916",
-"ADMOB_INTER" : "ca-app-pub-3459782106934381/7373008852",
-"ADMOB_NATIV" : "ca-app-pub-3459782106934381/9807600507",
+"ADMOB_BANNER" : "ca-app-pub-3459782106934381/9300714918",
+"ADMOB_INTER" : "ca-app-pub-3459782106934381/8374646055",
+"ADMOB_NATIV" : "ca-app-pub-3459782106934381/7987633245",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
 "HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB3" : "forex",
+"HPK_ADMOB4" : "octafx",
 "HPK_ADMOB5" : "Donasi",
+"HPK_ADMOB6" : "Binomo",
+"HPK_ADMOB7" : "Pinjaman",
+"HPK_ADMOB8" : "yamaha",
+"HPK_ADMOB9" : "Simpati",
+"HPK_ADMOB10" : "Telkomsel",
+"HPK_ADMOB11" : "cryptocurency",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
