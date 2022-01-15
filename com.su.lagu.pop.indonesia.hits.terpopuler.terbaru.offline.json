@@ -1,4 +1,4 @@
-
+{
 "redirect" : {
 
 // untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
@@ -30,28 +30,34 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "2",
+"INTER_COUNT" : "5",
 
-"ENABLE_STRAP" : true,
+"ENABLE_STRAP" : false,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : false,
+"MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-3459782106934381/4523312797",
-"ADMOB_INTER" : "ca-app-pub-3459782106934381/3018659430",
-"ADMOB_NATIV" : "ca-app-pub-3459782106934381/6574761068",
+"ADMOB_BANNER" : "ca-app-pub-3459782106934381/7277186808",
+"ADMOB_INTER" : "ca-app-pub-3459782106934381/9105273791",
+"ADMOB_NATIV" : "ca-app-pub-3459782106934381/7277186808",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
 "HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB3" : "forex",
+"HPK_ADMOB4" : "octafx",
 "HPK_ADMOB5" : "Donasi",
+"HPK_ADMOB6" : "Binomo",
+"HPK_ADMOB7" : "Pinjaman",
+"HPK_ADMOB8" : "yamaha",
+"HPK_ADMOB9" : "Simpati",
+"HPK_ADMOB10" : "Telkomsel",
+"HPK_ADMOB11" : "cryptocurency",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
@@ -59,10 +65,10 @@
 
 "APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_BANNER" : "",
+"UNITY_INTERSTITIAL" : "",
 "UNITY_GAME_ID" : "",
-"UNITY_TEST_MODE" : "isian",
+"UNITY_TEST_MODE" : "",
 
 "APPLOVIN_BANNER_ID" : "",
 "APPLOVIN_INTERSTITIAL_ID" : "",
